@@ -1,0 +1,39 @@
+li:hover  {
+                background:#337ab7;
+                color: white;
+            }
+  li:visited  {
+                background:#337ab7 !important;
+                color: white !important;
+            }
+  li:focus  {
+                background:#337ab7 !important;
+                color: white !important;
+            }
+  .dropdown-menu > li > a:hover  {
+                background:#337ab7 !important ;
+                color: white !important;
+            }       
+@media (max-width: 767px)
+{
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+    color: white !important;
+    background-color: #313131 !important;
+
+    }
+    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: white !important;
+    background-color: #337ab7 !important;
+
+    }  .dropdown:hover {
+    color: white !important;
+    background-color: #313131 !important;
+
+    }
+}
+.dropdown-submenu>.dropdown-menu{
+  top: 0;
+  right: 100%;
+  margin-top: -6;
+  margin-right:-160px !important;
+}

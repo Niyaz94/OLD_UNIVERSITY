@@ -1,0 +1,2 @@
+the password for all employees in that format (12345+username_of_employee for example 12345niyaz )
+because password encrypted in the database

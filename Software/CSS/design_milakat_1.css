@@ -1,0 +1,17 @@
+.panel-heading:hover{
+	background:#337ab7 !important;
+	color: white !important;
+}
+.panel-heading:active{
+	background:#337ab7 !important;
+	color: white !important;
+}
+.well{
+	margin-top: 0px !important;
+}
+.panel-heading h4 a{
+	     text-decoration: none;
+
+}
+ 
+ 

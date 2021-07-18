@@ -1,0 +1,8 @@
+@font-face  {
+               font-family: "kufiKurdish";
+               src:url("../NotoKufiArabic-hinted/NotoKufiArabic-Regular.ttf");
+            }
+body        {
+               font-family:"kufiKurdish" !important; 
+               text-align: right !important;
+            }

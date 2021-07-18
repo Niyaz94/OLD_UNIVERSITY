@@ -1,0 +1,182 @@
+body        {
+                margin: 0 !important;
+                padding: 0;
+                font-family:sans-serif; 
+                background:  rgba(112, 123, 130, 0.24) ;
+            }
+
+#loginbt   {
+              font-size: 20px;
+              font-family: Times, serif;
+              color: white;
+           }
+
+#photologin{
+          
+              background-image: url("../image/img(22).jpg") !important;
+              text-align: left !important;
+           }
+      /* hamui bo table salary */
+#tablecss  {                  
+
+              margin-left: auto;
+              margin-right: auto;
+           }
+
+table,th,td{
+              border: 0px solid #404356;
+              /*border-collapse: collapse;*/
+           }
+
+th, td     {
+              padding: 4px;
+              text-align: center;
+           }
+
+.bgcolorrow2{
+              background: #ffffff;
+            }
+
+.bgcolorrow1{
+              background: #969696;
+              color: white;
+            }
+
+.colorheader{
+              background:#545454;
+              color: white;
+            }
+               /* ---------------------hata era----------------------------*/
+
+#photo      {
+              width: 150px;
+              height: 120px;
+  
+            }
+
+#text       {
+              color: #337ab7;
+            }
+            
+#link       {
+              color:white;
+            }
+/* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+.row.content{
+              height: 600px !important;
+            }
+    
+/* Set gray background color and 100% height */
+.sidenav    {
+              background-color: #f1f1f1 !important;
+              height:600px;
+              padding: 0px;
+            }
+
+.panel-collapse{
+              background-color: #f1f1f1 !important;
+               }
+/* Set black background color, white text and some padding */
+footer      {
+              background-color: #555 !important;
+              color: white;
+              padding: 15px;
+            }
+    
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+.sidenav    {
+              height:auto;
+            }
+.row.content{
+              height: auto;
+            } 
+            }
+table th    {
+              color: white;
+              background-color:rgba(43,58,78,0.9) !important;
+            }
+.panel-heading{
+                border:none!important;
+                color: black !important;
+                background-color:#f1f1f1!important;
+                text-align: center;
+              }
+.panel-group .panel {
+                border: none;
+                background-color: #f1f1f1 !important;
+                    }
+
+.white     {
+              color:white !important;
+           }
+.size      {
+              width: 650px;
+              height: 570px;
+              text-align: center;
+              background-color:rgba(59, 58, 72, 0.5);
+              margin-top: 10px;
+              margin-right:auto;
+              margin-left: auto;
+              margin-bottom: 20px;
+           } 
+.sizeee      {
+              width: 650px;
+              height: 590px;
+              text-align: center;
+              background-color:rgba(59, 58, 72, 0.5);
+              margin-top: 10px;
+              margin-right:auto;
+              margin-left: auto;
+              margin-bottom: 20px;
+           }             
+.size22      {
+              width: 650px;
+              height: 400px;
+              background-color:rgba(59, 58, 72, 0.5);
+              text-align: center;
+              margin-right:auto;
+              margin-top: 10px;
+              margin-left: auto;
+              margin-bottom: 20px;
+           } 
+.sizeCopybook{
+              width: 950px;
+              height: 980px;
+              text-align: center;
+              background-color:rgba(59, 58, 72, 0.5);
+              margin-top: 10px
+              margin-right:100px;
+              margin-left: auto;
+              margin-bottom: 20px;
+           } 
+.sizeCopybook2{
+              width: 1100px;
+              height: 680px;
+              text-align: center;
+              background-color:rgba(59, 58, 72, 0.5);
+              margin-top: 10px
+              margin-right:100px;
+              margin-left: auto;
+              margin-bottom: 20px;
+           }                     
+.bgcolor   {
+             /* background: rgba(95,115,142,1) !important;*/ 
+             background-image: url("../image/phoooto.png")
+           }
+.date      {
+              width:150px;
+           }
+.datet     {
+              width:150px;
+           }
+.color     {
+                background-color:#4d5f7a;
+           }
+.bb        {
+                height: 620px;
+           }
+.toppad
+           {
+                margin-top:20px;
+           }
